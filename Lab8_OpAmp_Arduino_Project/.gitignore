@@ -1,0 +1,11 @@
+# Arduino / Processing
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/output files
+build/
+out/
